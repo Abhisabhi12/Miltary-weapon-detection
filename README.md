@@ -1,1 +1,0 @@
-# Miltary-weapon-detection
